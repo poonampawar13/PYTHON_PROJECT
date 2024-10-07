@@ -1,5 +1,6 @@
 # Python_Project
- + Sales Project - [Link](Sales_data)
- + Students Marks Project - [Link](Student_data)
- + IPL Dataset - [Link](IPL_Dataset)
+ + Covid Dataset - [Link](Covid_Dataset)
  + Loan Dataset - [Link](IPL_Dataset)
+ + IPL Dataset - [Link](IPL_Dataset)
+ + Students Marks Project - [Link](Student_data)
+ + Sales Project - [Link](Sales_data)
