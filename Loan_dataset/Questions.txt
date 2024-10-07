@@ -1,0 +1,30 @@
+1.What is the average current loan amount for each loan status?
+2.How does the credit score vary with the annual income?
+3.Is there a correlation between the number of open accounts and the current credit balance?
+4.What is the distribution of credit scores across different home ownership types?
+5.How does the annual income differ for different purposes of loans?
+6.What is the average monthly debt for each term (short-term vs. long-term)?
+7.Is there a correlation between years of credit history and the current credit balance?
+8.How does the credit score vary with the years in the current job?
+9.What is the relationship between the number of credit problems and the number of open accounts?
+10.What is the distribution of annual income across different loan statuses?
+11.Is there a correlation between the current loan amount and the number of open accounts?
+12.How does the monthly debt vary with the years of credit history?
+13.What is the average annual income for each purpose of loan?
+14.How does the credit score vary with the number of credit problems?
+15.Is there a correlation between the number of credit problems and the current credit balance?
+16.What is the distribution of current loan amounts across different home ownership types?
+17.How does the annual income vary with the years in the current job?
+18.Is there a correlation between the current loan amount and the monthly debt?
+19.What is the average monthly debt for each home ownership type?
+20.How does the credit score vary with the number of open accounts?
+21.What is the distribution of credit scores across different loan statuses?
+22.Is there a correlation between the current loan amount and the years of credit history?
+23.How does the monthly debt vary with the number of credit problems?
+24.What is the average current loan amount for each purpose of loan?
+25.How does the credit score vary with the current credit balance?
+26.Is there a correlation between the annual income and the current credit balance?
+27.What is the distribution of annual income across different terms (short-term vs. long-term)?
+28.How does the credit score vary with the number of credit problems?
+29.Is there a correlation between the current loan amount and the number of credit problems?
+30.What is the relationship between the number of open accounts and the years of credit history?
