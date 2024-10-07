@@ -1,3 +1,3 @@
 # Python_Project
- + Sales Project - [Link](Expanded_data_with_more_features.csv)
+ + Sales Project - [Link](Sales_data)
  + Students Marks Project - [Link](Student_data)
